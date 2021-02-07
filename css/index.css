@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+nav {
+  height: 60px;
+  width: 80vw;
+  background-color: #1b293f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+a {
+  color: #fff;
+  font-weight: 500;
+  font-size: 14px;
+}
